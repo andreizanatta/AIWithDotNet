@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AIWithDotNet.Controllers.ContractAnalysisController",
+    "Method": "Analyze",
+    "RelativePath": "api/contract-analysis/analyze",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "AIWithDotNet.Controllers.ContractInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tF7ghG5UtclEupaAbDt9ueVJUcpXky7UJPiG8pfBQzg=",
+  "Source": "AIWithDotNet",
+  "BasePath": "_content/AIWithDotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
