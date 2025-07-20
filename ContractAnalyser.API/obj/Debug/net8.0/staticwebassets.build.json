@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0AUsi9vTOcM3J7NwdawT3VIXvWQ2K3ZQor2N2sNVjfc=",
+  "Source": "ContractAnalyser.API",
+  "BasePath": "_content/ContractAnalyser.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+@ContractAnalyser.API_HostAddress = http://localhost:5271
+
+GET {{ContractAnalyser.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

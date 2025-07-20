@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ContractAnalyser.API.Controllers.ContractAnalysisController",
+    "Method": "Analyze",
+    "RelativePath": "api/contract-analysis/analyze",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "ContractAnalyser.API.Controllers.ContractInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
